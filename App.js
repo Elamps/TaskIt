@@ -20,19 +20,19 @@ const tasks = [
   stamp: "Today . 7am"
 },
 {
-  task:"meeting",
+  task:"Meting",
   icon:"account",
   theme:"#008b8b",
-  stamp: "Today . 7am"
+  stamp: "Today . 10am"
 },
 {
   task:"Groceries",
   icon:"cart",
   theme:"#008b8b",
-  stamp: "Today . 7am"
+  stamp: "Today . 6pm"
 },
 {
-  task:"Lifting Workout",
+  task:"Lifting",
   icon:"weight",
   theme:"#008b8b",
   stamp: "Today . 7pm"
